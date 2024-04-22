@@ -23,7 +23,7 @@ public class TryProcessing extends PApplet {
 
     @Override
     public void draw() {
-       paintwhite();
+//       paintwhite();
         ellipse(x,WIDTH/5,DIAMETER, DIAMETER);
         x++;
         ellipse(y,2*WIDTH/5,DIAMETER,DIAMETER);
